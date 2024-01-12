@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 ---
 1. -[x] Выбор темы: Приложение WPF for ПК
 2. -[ ] Акт о внедрении 
-3. -[x] Подключение БД(нейронки)
+3. -[x] Подключение БД
 
 ---
 Тут будет что-то такое
